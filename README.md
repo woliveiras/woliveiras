@@ -6,7 +6,9 @@
 ## Depoimentos
 
 ### O que dizer desse cara que eu mal conheço e já admiro pacas?
-Um cara bacana, compromissado, consciente, tem gatos fofos, mora na ZS, tudo de bom.
-Não precisa aceitar esse PR hahahah
-[Ju Amoasei](https://github.com/JulianaAmoasei)
 
+Um cara bacana, compromissado, consciente, tem gatos fofos, mora na ZS, tudo de bom.
+
+> Não precisa aceitar esse PR hahahah
+
+[@Ju Amoasei](https://github.com/JulianaAmoasei)
