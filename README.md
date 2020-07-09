@@ -1,6 +1,10 @@
 # William Oliveira
 
-![Gatinho colocando óculos](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif)
+> I write duck code
+
+<p align="center">
+   <img src="https://media.giphy.com/media/QBRlZja1wrVCK1rEqy/giphy.gif" alt="Pato se escondendo atrás de uma pedra">
+</p>
 
 
 ## Depoimentos
