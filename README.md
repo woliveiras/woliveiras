@@ -16,3 +16,10 @@ Um cara bacana, compromissado, consciente, tem gatos fofos, mora na ZS, tudo de 
 > Não precisa aceitar esse PR hahahah
 
 [@Ju Amoasei](https://github.com/JulianaAmoasei)
+
+
+### Comprem o livro dele é muito manero
+
+Saudades orkut, to fazendo isso lembrando de lá. Mas sobre o livro é sério e manero gente.
+
+[@Cristuker](https://github.com/Cristuker)
