@@ -28,6 +28,11 @@ Programação mensal:
 * 2 semana: code review, 
 * 3 semana: aula/live code
 
+## Recomendações
+
+- [livros](https://woliveiras.com.br/posts/livros-que-todo-programador-iniciante-deveria-ler/)
+- [livecoders](https://twitter.com/girlslivecoders)
+
 <!-- 
 
 ## Depoimentos 💓
