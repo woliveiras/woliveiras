@@ -12,7 +12,7 @@
 
 Conteúdo sobre frontend, carreira e um pouco mais.
 
-### [IMPACTO SOCIAL](https://github.com/woliveiras/impacto-social)
+### [IMPACTO SOCIAL](https://woliveiras.com.br/apoio-social/)
 
 Apoio a pessoas de baixa renda, moradores de periferia e pessoas em situação de vulnerabilidade social que desejam entrar na área de programação.
 
@@ -21,12 +21,6 @@ Apoio a pessoas de baixa renda, moradores de periferia e pessoas em situação d
 Glossário de termos da área de desenvolvimento de software com linguagem neutra.
 
 ### [TWITCH](https://www.twitch.tv/uillaz)
-
-Programação mensal: 
-
-* 1 semana: mentoria, 
-* 2 semana: code review, 
-* 3 semana: aula/live code
 
 ## Recomendações
 
