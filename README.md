@@ -3,7 +3,7 @@
 > Escrevo código para navegadores web :heart: 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/anjRJ4nv9WJzO/giphy.gif" alt="Logo do Netscape">
+   <img src="./social-share.png" alt="Banner: William Oliveira, inclusão social através do ensino de programação e frontend">
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woliveiras&show_icons=true)
