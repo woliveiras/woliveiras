@@ -6,6 +6,9 @@
    <img src="https://media.giphy.com/media/anjRJ4nv9WJzO/giphy.gif" alt="Logo do Netscape">
 </p>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woliveiras&show_icons=true)
+<img width="400px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" />  
+
 ## Projetos legais 🧙‍♂️
 
 ### [MEU BLOG](http://woliveiras.com.br/)
