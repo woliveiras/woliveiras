@@ -1,6 +1,8 @@
 # William Oliveira
 
-> Escrevo código para navegadores web :heart: 
+> Pintor de software
+
+Experiência de Usuário, performance, acessibilidade, SEO.
 
 <p align="center">
    <img src="./social-share.png" alt="Banner: William Oliveira, inclusão social através do ensino de programação e frontend">
@@ -15,16 +17,19 @@
 
 Conteúdo sobre frontend, carreira e um pouco mais.
 
-### [IMPACTO SOCIAL](https://woliveiras.com.br/apoio-social/)
+### [IMPACTO SOCIAL](http://woliveiras.com.br/apoio-social/)
 
 Apoio a pessoas de baixa renda, moradores de periferia e pessoas em situação de vulnerabilidade social que desejam entrar na área de programação.
 
-### [LINGUAGEM NEUTRA DEV](https://github.com/woliveiras/linguagem-neutra-dev)
+### [LINGUAGEM NEUTRA DEV](http://woliveiras.com.br/linguagem-neutra)
 
 Glossário de termos da área de desenvolvimento de software com linguagem neutra.
 
-### [TWITCH](https://www.twitch.tv/uillaz)
+### [Cursos de programação](https://www.twitch.tv/uillaz)
 
+Ensinando desenvolvimento de software de maneira acessível e inclusiva
+
+Todos os cursos são ministrados ao vivo na Twitch.tv no canal: twitch.tv/uillaz.
 ## Recomendações
 
 - [livros](https://woliveiras.com.br/posts/livros-que-todo-programador-iniciante-deveria-ler/)
