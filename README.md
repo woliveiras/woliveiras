@@ -1,8 +1,8 @@
 # William Oliveira
 
-> Software Painter Aka Frontend Software Engineer
+> Senior Frontend Software Engineer
 
-Web Performance, Web Security, Software Architecture, User Experience, Accessibility and SEO.
+Accessibility, Web Performance, Web Security, Software Architecture, System Design and SEO.
 
 <!-- <p align="center">
    <img src="./social-share.png" alt="Banner: William Oliveira, inclusão social através do ensino de programação e frontend">
