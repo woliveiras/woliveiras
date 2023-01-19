@@ -4,16 +4,12 @@
 
 Accessibility, Web Performance, Web Security, Software Architecture, System Design and SEO.
 
-<!-- <p align="center">
-   <img src="./social-share.png" alt="Banner: William Oliveira, inclusão social através do ensino de programação e frontend">
-</p> -->
-
 <img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=woliveiras&show_icons=true" />  
 <img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" />  
 
 ## Links
 
-- [My personal blog ☺︎](http://woliveiras.com)
+- [My personal blog 🇬🇧](http://woliveiras.com)
 - [My portuguese blog 🇧🇷](http://woliveiras.com.br)
 
 ## Follow me 
