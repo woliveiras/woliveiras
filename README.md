@@ -4,8 +4,8 @@
 
 Topics: Accessibility, Web Performance, Web Security, Software Architecture, System Design and SEO.
 
-<img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=woliveiras&show_icons=true" />  
-<img width="480px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" />
+<img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api?username=woliveiras&show_icons=true" />  
+<img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" />
 
 ## Links
 
