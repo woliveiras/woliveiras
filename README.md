@@ -1,21 +1,19 @@
 # William Oliveira
 
-> Senior Frontend Software Engineer
+> Software Engineer | book writer | mentor | speaker
 
-Topics: Accessibility, Web Performance, Web Security, Software Architecture, System Design and SEO.
+Topics: Career, Web Development, Web Performance, Web Security, Software Architecture, and System Design.
 
+<br/>
 <p align="center">
   <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api?username=woliveiras&show_icons=true" />  
-<p/>
-
-<p align="center">
   <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" />
 <p/>
+<br/>
 
 ## Links
 
-- [My personal blog 🇬🇧](http://woliveiras.com)
-- [My portuguese blog 🇧🇷](http://woliveiras.com.br)
+- [My Portuguese blog 🇧🇷](http://woliveiras.com.br)
 
 ## Follow me 
 
