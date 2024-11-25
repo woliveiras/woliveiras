@@ -17,9 +17,9 @@ Topics: Career, Web Development, Web Performance, Web Security, Software Archite
 
 ## Follow me 
 
-<a href="https://www.linkedin.com/in/william-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/william-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white&color=1d9bf0" target="_blank"></a> 
-<a rel="me" href="https://mstdn.social/@1ilhas" target="_blank"><img src="https://img.shields.io/badge/-Mastodon-%230077B5?style=for-the-badge&logo=mastodon&logoColor=white&color=1d9bf0" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/william-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1d9bf0" target="_blank"></a> 
+
+<a rel="me" href="https://bsky.app/profile/1ilhas.bsky.social" target="_blank"><img src="https://img.shields.io/badge/-Bluesky-%230077B5?style=for-the-badge&logo=bluesky&logoColor=white&color=1d9bf0" target="_blank"></a> 
 
 <!-- 
 
