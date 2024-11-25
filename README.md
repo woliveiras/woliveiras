@@ -5,10 +5,16 @@
 Topics: Career, Web Development, Web Performance, Web Security, Software Architecture, and System Design.
 
 <br/>
-<p align="center">
-  <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api?username=woliveiras&show_icons=true" />  
-  <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" />
-<p/>
+
+|       Stats         |                Languages          |
+|----------------|-------------------------------|
+| ![woliveiras's GitHub stats](https://github-readme-stats.vercel.app/api?username=woliveiras\&rank_icon=percentile)  | <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" /> |
+
+
+
+
+
+  
 <br/>
 
 ## Links
