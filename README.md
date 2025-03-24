@@ -19,7 +19,9 @@ Topics: Career, Web Development, Web Performance, Web Security, Software Archite
 
 ## Links
 
+- [My English blog 🇬🇧](https://woliveiras.github.io/)
 - [My Portuguese blog 🇧🇷](http://woliveiras.com.br)
+
 
 ## Follow me 
 
