@@ -11,10 +11,12 @@ With more than 10 years of experience, I worked as a technical lead and software
 I love to spread knowledge and help other developers grow in their careers. Because of this, I wrote three books about a programming career in Brazil, all published by Casa do Código:
 
 For beginners: [O Universo da Programação](https://www.casadocodigo.com.br/products/livro-universo-programacao)
-For mid-levels: [Navegando no Universo da Programação](https://www.casadocodigo.com.br/products/livro-navegando-universo)
-For experts: [Carreira Técnica no Universo da Programação](https://www.casadocodigo.com.br/products/livro-carreira-tecnica).
 
-I'm a self-taught programmer, and I started my career as a web developer back in 2010. Since then, I have worked with several technologies, programming languages, and frameworks, but my main focus has always been on web development. The recent years, I started to focus on AI Engineering and Machine Learning.
+For mid-levels: [Navegando no Universo da Programação](https://www.casadocodigo.com.br/products/livro-navegando-universo)
+
+For experts: [Carreira Técnica no Universo da Programação](https://www.casadocodigo.com.br/products/livro-carreira-tecnica)
+
+I'm a self-taught programmer, and I started my career as a web developer back in 2010. Since then, I have worked with several technologies, programming languages, and frameworks, but my main focus has always been on web development. In recent years, I have focused on AI Engineering and Machine Learning.
 
 ## Check my projects
 
