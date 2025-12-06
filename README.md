@@ -2,20 +2,19 @@
 
 > Software Engineer | book writer | mentor | speaker
 
-Topics: Career, Web Development, Web Performance, Web Security, Software Architecture, and System Design.
+Hi! 👋
 
-<br/>
+I'm William Oliveira, a Brazilian software engineer living in Spain.
 
-|       Stats         |                Languages          |
-|----------------|-------------------------------|
-| ![woliveiras's GitHub stats](https://github-readme-stats.vercel.app/api?username=woliveiras\&rank_icon=percentile)  | <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" /> |
+I'm a software engineer with more than 10 years of experience, a software architect, a mentor, and author of the Brazilian books about programming career: [O Universo da Programação](https://www.casadocodigo.com.br/products/livro-universo-programacao), [Navegando no Universo da Programação](https://www.casadocodigo.com.br/products/livro-navegando-universo), and [Carreira Técnica no Universo da Programação](https://www.casadocodigo.com.br/products/livro-carreira-tecnica).
 
+## Check my projects
 
-
-
-
-  
-<br/>
+| Title                                       | Description                                         | Link                                                                                |
+| ------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Corsarr                                     | Fast way for running for Radarr, Lidarr, Readarr, and Bazarr | [Use Corsarr](https://github.com/woliveiras/corsarr)                       |
+| Klon                                        | A fast tool for cloning the Raspberry Pi            | [Use Klon](https://github.com/woliveiras/klon)                                      |
+| Cronor                                      | Cron expressions generator                          | [View Cronor](https://woliveiras.github.io/cronor/)                                 |
 
 ## Links
 
