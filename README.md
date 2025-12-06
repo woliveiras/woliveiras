@@ -6,13 +6,23 @@ Hi! 👋
 
 I'm William Oliveira, a Brazilian software engineer living in Spain.
 
-I'm a software engineer with more than 10 years of experience, a software architect, a mentor, and author of the Brazilian books about programming career: [O Universo da Programação](https://www.casadocodigo.com.br/products/livro-universo-programacao), [Navegando no Universo da Programação](https://www.casadocodigo.com.br/products/livro-navegando-universo), and [Carreira Técnica no Universo da Programação](https://www.casadocodigo.com.br/products/livro-carreira-tecnica).
+With more than 10 years of experience, I worked as a technical lead and software engineer specialist (staff engineer) in several companies, from startups to large enterprises.
+
+I love to spread knowledge and help other developers grow in their careers. Because of this, I wrote three books about a programming career in Brazil, all published by Casa do Código:
+
+For beginners: [O Universo da Programação](https://www.casadocodigo.com.br/products/livro-universo-programacao)
+For mid-levels: [Navegando no Universo da Programação](https://www.casadocodigo.com.br/products/livro-navegando-universo)
+For experts: [Carreira Técnica no Universo da Programação](https://www.casadocodigo.com.br/products/livro-carreira-tecnica).
+
+I'm a self-taught programmer, and I started my career as a web developer back in 2010. Since then, I have worked with several technologies, programming languages, and frameworks, but my main focus has always been on web development. The recent years, I started to focus on AI Engineering and Machine Learning.
 
 ## Check my projects
 
+I'm a polyglot programmer. I enjoy using the right tool for the right job. Some of the programming languages I use daily are JavaScript/TypeScript, Python, and Go.
+
 | Title                                       | Description                                         | Link                                                                                |
 | ------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Corsarr                                     | Fast way for running for Radarr, Lidarr, Readarr, and Bazarr | [Use Corsarr](https://github.com/woliveiras/corsarr)                       |
+| Corsarr                                     | CLI tool for running for Radarr, Lidarr, Readarr, and Bazarr | [Use Corsarr](https://github.com/woliveiras/corsarr)                       |
 | Klon                                        | A fast tool for cloning the Raspberry Pi            | [Use Klon](https://github.com/woliveiras/klon)                                      |
 | Cronor                                      | Cron expressions generator                          | [View Cronor](https://woliveiras.github.io/cronor/)                                 |
 
